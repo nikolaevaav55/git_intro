@@ -1,1 +1,1 @@
-Команда checkout используется в Git, чтобsssssssssы:
+Команда checkout используется в Git, чтобы:huoi;oiuj
